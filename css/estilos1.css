@@ -1,0 +1,133 @@
+#principal
+{
+    width: 800px;
+    height: 1000px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+#sombrero1
+{
+    width: 200px;
+    height: 120px;
+    background-color: red;
+    /* border-radius: 100px; 
+    display: inline-block;*/
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
+#sombrero2
+{
+    width: 400px;
+    height: 30px;
+    background-color: yellow;
+   
+    /* display: inline-block; */
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+#cara
+{
+    width: 300px;
+    height: 300px;
+    background-color: orange;
+    /* display: inline-block; */
+    border-radius: 110px;
+    position: relative;
+    left: 200px;
+    top: 150px;
+}
+#ojo-izq
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    /* margin: auto; */
+    position: relative;
+    left: 90px;
+    top: 80px;
+    /* transform: rotate(45deg); */
+    display: inline-block;
+    border-radius: 20px;
+}
+#ojo-der
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    /* margin: auto; */
+    position: relative;
+    left: 120px;
+    top: 80px;
+    /* transform: rotate(45deg); */
+    display: inline-block;
+    border-radius: 20px;
+}
+#iris-izq
+{
+    
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    /* margin: auto; */
+    position: relative;
+    left: 15px;
+    top: 20px;
+    /* transform: rotate(45deg); */
+    display: inline-block;
+    border-radius: 10px;    
+}
+#iris-der
+{
+    
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    /* margin: auto; */
+    position: relative;
+    left: 15px;
+    top: 20px;
+    /* transform: rotate(45deg); */
+    display: inline-block;
+    border-radius: 10px;    
+}
+#nariz
+{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    /* margin: auto; */
+    position: relative;
+    left: 135px;
+    top: 90px;
+    /* transform: rotate(45deg); */
+    /* display: inline-block; */
+    border-radius: 20px;
+}
+#boca1
+{
+    width: 200px;
+    height: 80px;
+    background-color: red;
+    /* margin: auto; */
+    position: relative;
+    left: 50px;
+    top: 100px;
+    /* transform: rotate(45deg); */
+    /* display: inline-block; */
+    border-radius: 40px;
+}
+#boca2
+{
+    width: 200px;
+    height: 80px;
+    background-color: red;
+    /* margin: auto; */
+    position: relative;
+    left: 50px;
+    top: 100px;
+    /* transform: rotate(45deg); */
+    /* display: inline-block; */
+    border-radius: 40px;
+}
